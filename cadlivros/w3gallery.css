@@ -1,0 +1,30 @@
+div.gallery {
+    margin: 25px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 215px;
+    height: 350px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 85%;
+}
+
+div.desc {
+    padding: 7px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    div.gallery {
+        width: 80%;
+        height: auto;
+    }
+}

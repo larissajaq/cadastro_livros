@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>  
+	<menu>   
+		<option href="galeria_livros.php" target="_top">Meus Livros</option>
+		<option href="lista_frases.php" target="_top">Fragmentos</option>
+                <option href="cad_usuario.php" target="_top">Sign up</option>
+                <option href="login_user.php" target="_top">Login</option>
+	</menu>  
+</site>
